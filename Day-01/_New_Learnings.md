@@ -1,6 +1,5 @@
 Learnt about redux toolkit and how to use it.
 
-- tell me something abot redux toolkit
 - redux toolkit is a library that helps you to manage state in your application.
 - in redux toolkit, you can create reducers, actions, and store.
 - reducers are functions that take in the current state and an action, and return the next state.
